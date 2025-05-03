@@ -68,7 +68,7 @@
 ## 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tsalmas-anastasios&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tsalmas-Anastasios&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 
 
