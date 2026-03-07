@@ -4,9 +4,7 @@
 - 🎓 Studying Applied Informatics at University of Macedonia, Thessaloniki - Greece
 - 🏆 Current Software Engineer at BetAdvanced S.A.
 - 👨‍💻 CTO at Hype P.C.
-- 💻 Team Leader at <a href="https://opensource.uom.gr" target="_blank">OpenSource UOM</a>
-- 💻 Team Leader at <a href="https://www.uom.gr/google-developer-group-on-campus">Google Students Developer Club at University of Macedonia</a>
-- 👥 I'm open to new projects ideas and collaborations.
+- 👥 Open to new projects ideas and collaborations.
 
 ### Connect with me: 
 <a href="https://www.linkedin.com/in/anastasios-tsalmas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
