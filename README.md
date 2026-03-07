@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer & System Administrator
 - 🎓 Studying Applied Informatics at University of Macedonia, Thessaloniki - Greece
-- 🏆 Current Software Engineer at Threenitas S.A.
+- 🏆 Current Software Engineer at BetAdvanced S.A.
 - 👨‍💻 CTO at Hype P.C.
 - 💻 Team Leader at <a href="https://opensource.uom.gr" target="_blank">OpenSource UOM</a>
 - 💻 Team Leader at <a href="https://www.uom.gr/google-developer-group-on-campus">Google Students Developer Club at University of Macedonia</a>
