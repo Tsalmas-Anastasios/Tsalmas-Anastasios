@@ -1,7 +1,7 @@
 ### Hello, I'm Anastasios Tsalmas 👋
 
 ## I'm a Software Engineer & System Administrator
-- 🎓 Studying Applied Informatics at University of Macedonia, Thessaloniki - Greece
+- 🎓 BsC Applied Informatics at University of Macedonia, Thessaloniki - Greece
 - 🏆 Current Software Engineer at BetAdvanced S.A.
 - 👨‍💻 CTO at Hype P.C.
 - 👥 Open to new projects ideas and collaborations.
