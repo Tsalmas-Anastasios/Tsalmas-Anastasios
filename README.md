@@ -8,8 +8,8 @@
 
 ### Connect with me: 
 <a href="https://www.linkedin.com/in/anastasios-tsalmas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:anastasios@tsalmas.com" target="_blank"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
-<a href="https://tsalmas.com/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website"> </a>
+<a href="mailto:anastasios@tsalmas.com" target="_blank"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://tsalmas.com/" target="_blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website"></a>
 
 
 
