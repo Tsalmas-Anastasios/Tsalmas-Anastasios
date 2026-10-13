@@ -3,7 +3,6 @@
 ## I'm a Software Engineer & System Administrator
 - 🎓 BsC Applied Informatics at University of Macedonia, Thessaloniki - Greece
 - 🏆 Current Software Engineer at BetAdvanced S.A.
-- 👨‍💻 CTO at Hype P.C.
 - 👥 Open to new projects ideas and collaborations.
 
 ### Connect with me: 
